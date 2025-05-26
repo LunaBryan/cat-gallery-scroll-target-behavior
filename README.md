@@ -5,3 +5,6 @@ When to Use It?
 You would use ScrollTargetBehavior when you want to control the alignment of a target view within a scroll view, especially when implementing features like navigation or focusing on specific content.
 
 [SwiftUI]([url](https://developer.apple.com/documentation/swiftui/scrolltargetbehavior)) `scrollTargetBahavior(:..)`
+
+# Media files
+https://github.com/user-attachments/assets/6d241e7a-2151-468c-86f8-fa7d544b7a7f
